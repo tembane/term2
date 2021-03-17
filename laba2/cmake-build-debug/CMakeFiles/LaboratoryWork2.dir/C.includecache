@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/programming/laba2/function.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+function.h
+D:/programming/laba2/function.h
+
+D:/programming/laba2/function.h
+
+D:/programming/laba2/main.c
+stdio.h
+-
+function.h
+D:/programming/laba2/function.h
+
