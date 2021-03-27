@@ -1,0 +1,3 @@
+D:/programming/laba3_file/cmake-build-debug/CMakeFiles/laba3_file.dir
+D:/programming/laba3_file/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programming/laba3_file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
